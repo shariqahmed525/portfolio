@@ -5,11 +5,11 @@ import ToggleSwitch from "../ToggleSwitch/ToggleSwitch";
 import StyleContext from "../../contexts/StyleContext";
 import {
   greeting,
-  workExperiences,
-  skillsSection,
   openSource,
   blogSection,
   talkSection,
+  skillsSection,
+  workExperiences,
   achievementSection
 } from "../../portfolio";
 
